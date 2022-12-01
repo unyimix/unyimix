@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unyimix
-- 👀 I’m interested in contebt creation, Web development, Web3 and general Blockchain development.
+- 👀 I’m interested in content creation, Web development, Web3 and general Blockchain development.
 - 🌱 I’m currently learning Solidity Rust and Motoko.
 - 💞️ I’m looking to collaborate on Web3 oriented solutions.
 - 📫 How to reach me just chat me here 🙏😍
